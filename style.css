@@ -1,0 +1,114 @@
+.wrapper {
+    width: 1600px;
+    margin: 0 auto;
+    font-family: 'roboto';
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.bg-image {
+    color: #FFFFFF;
+    background-image: url(./assets/images/bg-image.png);
+    height: 788px;
+    width: 1600px;
+    position: absolute;
+    top: -10px;
+}
+
+.header {
+    width: 1600px;
+    height: 95px;
+    color: #FFFFFF;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.navigation  {
+    list-style: none;
+}
+
+.navigation li {
+    display: inline;
+    line-height: 60px;
+    margin: 0 50px;
+}
+
+.navigation li:hover {
+    background: blue;
+    color: red;
+    cursor: pointer;
+}
+
+.first {
+    text-decoration: underline;
+}
+
+.logo {
+    width: 44px;
+    height:45px;
+    line-height: 100px;
+    color: #FFFFFF;
+}
+
+.your-life {
+    margin: 0 auto;
+}
+.your-life__content h1{
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+    letter-spacing: 4.5px;
+    width: 730px;
+    height: 75px;
+    margin: 0 auto;
+    margin-top: 160px;
+
+}
+
+.your-life__content p{
+    font-size: 18px;
+    line-height: 25px;
+    width: 504px;
+    height: 50px;
+    margin: 20px auto 30px;
+}
+
+button {
+    width: 184px;
+    height: 46px;
+    background: #00AFDB;
+    padding: 15px 42px;
+    color: #FFFFFF;
+}
+
+button:hover {
+    background: blue;
+    color: red;
+    cursor: pointer;
+}
+.your-life__btn {
+    font-weight: bold;
+    line-height: 16px;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.your-life__nav {
+    margin: 183px auto 30px;
+}
+
+.your-life__nav li {
+    display: inline;
+    list-style: none;
+    margin: 15px;
+}
+
+.your-life__nav li:hover {
+    cursor: pointer;
+} 
+
+.rappresent {
+    color: #FFFFFF;
+}

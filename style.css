@@ -206,6 +206,8 @@ button:hover {
     margin-bottom: -3px;
 }    
 
+
+
 .our-community__content p {
     width: 298px;
     height: 80px;
@@ -217,8 +219,7 @@ button:hover {
     flex-direction: column;
     margin-top: 78px;
     margin-right: 0;
-    width: 1300px;
-    height: 504px;
+    height: 290px;
 }
 
 .our-community__number {
@@ -240,22 +241,21 @@ button:hover {
 }
 .our-coommunity__image {
     display: flex;
+    width: 1283px;
+    overflow: hidden;
 }
 
 .our-community__image-item {
     width: 407px;
     height: 244px;
-    margin: 0 14px 0 13px;
+    margin: 0 27px 0 0;
 }
 
 .our-community__image-item:first-child {
-    margin-left: 0;
+    margin-left: -2px;
 }
 
 .our-community__image-item:last-child {
-    width: 18px;
-    height: 244px;
-    overflow: hidden;
     margin-right: 0;
 }
 .implement {

@@ -220,6 +220,7 @@ button:hover {
     margin-top: 78px;
     margin-right: 0;
     height: 290px;
+    overflow: hidden;
 }
 
 .our-community__number {
